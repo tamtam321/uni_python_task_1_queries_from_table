@@ -1,0 +1,15 @@
+Egy játékkonzolokkal kereskedõ cég aktuális heti árlistájával dolgozunk. 
+A fájl egy sora egy termék neve, típusa, raktárkészletrõl információ, platform és ár, például:
+
+Minecraft Xbox 360 Edition;Játék;Raktáron;Xbox 360;5490
+
+A bolt dolgozói a játékok nevébe gyakran beleírják a platformot, és mindig beírják, hogy használt-e a játék.
+
+Feladatok:
+
+a) melyik a legdrágább raktáron levõ játék?
+
+b) mennyi a használt játékok árának mediánja? (medián: sorbarendezve a lehetõségeket a középsõ elem)
+
+c) melyik platformhoz hány termék van raktáron? Maxpontért a forráskód nem tartalmazza a platformneveket. 
+(figyelem: nem csak a játékok közül!)
